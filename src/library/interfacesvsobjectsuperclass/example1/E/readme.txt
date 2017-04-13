@@ -1,0 +1,1 @@
+resolve Diamond Problem in Java
