@@ -6,5 +6,6 @@ package library.interfacesvsobjectsuperclass.example2;
 public enum StorageKey {
     LOGGED_IN;
 
+
     StorageKey(){}
 }

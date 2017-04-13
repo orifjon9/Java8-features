@@ -14,6 +14,7 @@ public class RedheadDuck extends Duck {
         quacking();
     }
 
+    
     @Override
     public void display() {
         System.out.println("RedheadDuck:\n\tdisplaying");

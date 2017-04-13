@@ -11,6 +11,7 @@ import java.util.List;
  */
 
 public class StaticStorage extends Cache{
+
     private static StaticStorage iNSTANCE = new StaticStorage();
 
     public static StaticStorage getINSTANCE(){

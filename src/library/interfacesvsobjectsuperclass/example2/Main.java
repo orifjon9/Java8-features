@@ -8,7 +8,6 @@ import java.util.List;
  */
 
 public class Main {
-   //private static StaticStorage ss = new StaticStorage();
 
     @SuppressWarnings({ "serial", "unused" })
     public static void main(String[] args) {

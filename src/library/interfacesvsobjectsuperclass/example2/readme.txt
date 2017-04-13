@@ -1,1 +1,1 @@
-Working with enum
+Working with enum, examples
