@@ -1,0 +1,1 @@
+Interface default and static methods
